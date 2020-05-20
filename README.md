@@ -1,0 +1,2 @@
+# site01
+Une petite ALERTE pour vous qui est entrain de voir ce  projet et n'avez pas regardé les vidéos dans ma chaine de Youtube "INNOVATION NUMÉRIQUE", ce site a été structuré à l'aide d'un tableau, mais ce n'est pas la recommandation pour le développement de sites professionnels, j'ai uniquement utilisé ce projet pour tester les connaissances déjà acquises jusqu'à présent au cours, nous créerons plus tard des sites Web plus professionnels en utilisant html et css.
